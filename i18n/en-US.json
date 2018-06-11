@@ -1250,6 +1250,7 @@
 		"__comment": "UI-1742: Add a flag to list callflows in Main Numbers",
 		"__version": "3.22",
 		"list_this_callflow": "List this callflow in Main Number",
+<<<<<<< HEAD
 		"numberOfTries": "Number of times to ring members",
 		"__comment": "UI-2910: add prepend id fields",
 		"__version": "4.1",
@@ -1260,6 +1261,19 @@
 				"current": "Current",
 				"original": "Original"
 			}
+		},
+		"privacy": {
+			"title": "Privacy",
+			"caller_id_title": "Privacy Caller-ID",
+			"toolbox_name": "Privacy cid",
+			"toolbox_tip": "Hide your CallerNumber or your CallerName",
+			"mode": "Mode",
+			"endpoint_strategy": "Endpoint strategy",
+			"full": "Full",
+			"name": "Name",
+			"number": "Number",
+			"overwrite": "Overwrite",
+			"merge": "Merge"
 		}
 	},
 	"__comment": "UI-1260: created common control for carrier selection",
